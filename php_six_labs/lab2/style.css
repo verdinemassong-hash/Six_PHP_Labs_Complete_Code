@@ -1,0 +1,9 @@
+*{box-sizing:border-box}body{margin:0;background:#f3f5f8;color:#202938;font:16px Arial,sans-serif}
+.container{max-width:760px;margin:35px auto;padding:28px;background:white;border-radius:12px;box-shadow:0 5px 22px #17203312}
+h1{margin-top:0;color:#183b63}p{line-height:1.5}.field{margin:16px 0}label{display:block;font-weight:bold;margin-bottom:7px}
+input,select,textarea{width:100%;padding:11px;border:1px solid #b9c3cf;border-radius:6px;font:inherit}
+input[type=checkbox],input[type=radio]{width:auto;margin-right:7px}textarea{min-height:95px;resize:vertical}
+.inline label{display:inline-block;font-weight:normal;margin-right:18px}.check{font-weight:normal}
+button{background:#1d5d91;color:white;border:0;padding:12px 20px;border-radius:6px;cursor:pointer;font-size:16px}
+button:hover{background:#16466e}.message{padding:12px;border-radius:6px;margin:15px 0}.success{background:#e5f7e9;color:#145b28}.error{background:#ffeded;color:#8a2020}
+.errors{margin:0;padding-left:20px}.muted{color:#657386;font-size:14px}.nav a{margin-right:12px;color:#155b91}
